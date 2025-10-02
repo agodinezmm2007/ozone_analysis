@@ -20,8 +20,8 @@ All original datasets and intermediate files used in this analysis are preserved
 
 ### Original Data Sources (archived):
 - CDC Division for Heart Disease and Stroke Prevention Cardiovascular Disease Mortality (2001-2014)
-- CDC Environmental Public Health Tracking Program Daily Ozone Data [link(https://data.cdc.gov/Environmental-Health-Toxicology/Daily-Census-Tract-Level-Ozone-Concentrations-2011/372p-dx3h/about_data)]
-- US Census Population Estimates by County [Link(https://www2.census.gov/programs-surveys/popest/technical-documentation/file-layouts/2000-2008/co-est2008-alldata.pdf)]
+- CDC Environmental Public Health Tracking Program Daily Ozone Data [[link](https://data.cdc.gov/Environmental-Health-Toxicology/Daily-Census-Tract-Level-Ozone-Concentrations-2011/372p-dx3h/about_data)]
+- US Census Population Estimates by County [[Link](https://www2.census.gov/programs-surveys/popest/technical-documentation/file-layouts/2000-2008/co-est2008-alldata.pdf)]
 
 The Google Drive serves as archive since some original sources are no longer accessible.
 
